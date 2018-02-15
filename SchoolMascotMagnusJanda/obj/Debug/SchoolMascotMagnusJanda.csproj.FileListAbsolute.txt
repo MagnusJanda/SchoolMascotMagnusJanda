@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\bin\Debug\SchoolMascotMagnusJanda.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\bin\Debug\SchoolMascotMagnusJanda.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\bin\Debug\SchoolMascotMagnusJanda.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\obj\Debug\SchoolMascotMagnusJanda.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\obj\Debug\SchoolMascotMagnusJanda.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\obj\Debug\SchoolMascotMagnusJanda.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\obj\Debug\SchoolMascotMagnusJanda.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\obj\Debug\SchoolMascotMagnusJanda.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Janda, Magnus (s220117)\Unit 1 (Problem Solving)\SchoolMascotMagnusJanda\SchoolMascotMagnusJanda\obj\Debug\SchoolMascotMagnusJanda.pdb
